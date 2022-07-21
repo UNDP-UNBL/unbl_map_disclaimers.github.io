@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The UN Biodiversity Lab is a collaborative project between  the UNDP, UNEP-WCMC, and Impact
   Observatory (IO).
 #domain: map_disclaimers
-baseurl: /docs # the subpath of your site, e.g. /blog
-url: https://unbl_map_disclaimers.github.io # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: /docs 
+url: https://unbl_map_disclaimers.github.io
 twitter_username:
 github_username:
 header_pages:

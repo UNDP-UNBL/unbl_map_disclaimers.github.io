@@ -5,4 +5,4 @@ date:   2022-07-20 18:53:20 +1000
 categories: jekyll update
 ---
 
-TBD
+No updates noted. Updates expected in 2022.
